@@ -1,0 +1,12 @@
+@media(min-width: 112.5em) {
+
+    html {font-size: 80%;}   /*1800px + big-desk*/
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.all__container {
+    max-width: 1548px;
+    margin: 0 auto;
+}
+
+}

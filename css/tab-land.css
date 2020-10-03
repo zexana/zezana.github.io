@@ -1,0 +1,19 @@
+@media(max-width: 900px) {
+
+html {font-size: 43.75%;}   /*1200px tab-land 9/16=56.25%*/
+
+.all {
+    max-width: 90rem;
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.app__text {
+    width: 52%;
+}
+
+.follow {
+    width: 40%;
+}
+
+}

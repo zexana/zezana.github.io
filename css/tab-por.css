@@ -1,0 +1,66 @@
+
+@media(max-width: 768px) {
+html {font-size: 45%;}      /*900px tab-por 8/16=50%*/
+
+.all {
+    max-width: 80rem;
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.img__holder {
+    display: none;
+}
+
+.bg {
+    display: none;
+}
+
+.sg {
+    display: inline-block;
+    width: 100rem;
+    position: absolute;
+}
+
+.sg1 {
+    top: 5%;
+    left: 0%;
+}
+.sg2 {
+    top: 20%;
+    right: 25%;
+}
+.sg3 {
+    top: 50%;
+    left: 25%;
+}
+
+.app__text {
+    width: 70%;
+}
+
+
+.app__download {
+    background-image:linear-gradient(to right,#fe2986,#66033d);
+    font-size: 2rem;
+    padding: 1.6rem 2.4rem;
+    transform: translateY(1.3rem);
+}
+.app__download:hover {
+    transform: translateY(.8rem);
+}
+.app__download:active {
+    transform: translateY(1rem);
+}
+
+
+.follow {
+    width: 50%;
+}
+
+
+.p-w {
+    font-size: 1.9rem;
+}
+
+}

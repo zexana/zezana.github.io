@@ -1,0 +1,48 @@
+
+@media(max-width: 450px) {
+
+html {font-size: 35%;}      /*450px mob* 6/16*/
+
+.all {
+    max-width: 45rem;
+}
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+.h1 {
+    width: 66%;
+}
+
+.sg1 {
+    top: 5%;
+    left: -15%;
+}
+.sg2 {
+    top: 20%;
+    right: 0%;
+}
+.sg3 {
+    top: 50%;
+    left: 0%;
+}
+
+.app__text {
+    width: 100%;
+}
+
+.app__download {
+    background-image:linear-gradient(to right,#fe2986,#66033d);
+    font-size: 2rem;
+    padding: 1.3rem 2.4rem;
+    transform: translateY(.3rem);
+}
+
+.follow {
+    width: 100%;
+}
+
+.p-w {
+    font-size: 2.1rem;
+}
+
+}
